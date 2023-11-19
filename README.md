@@ -3,10 +3,8 @@
 ### DATE: 26/10/2023
 ### AIM: 
  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
-
 ### REQUIREMENTS:
  System - Windows 7 or higher, 1 GB RAM.
-
 ### PROCEDURE:
 ### Procedure for support removal
  1.	Select support removal from the list.
@@ -14,14 +12,12 @@
  3.	Select the parts in sequence in which they are shown.
  4.	When the first part is selected then it will open in the blank space in the left side of the screen.
  5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
-
 ### Procedure for UV Curing
  1.	Select UV curing from the list.
  2.	All the parts related to UV curing are shown on the screen.
  3.	Select the parts in sequence in which they are shown.
  4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
  5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
-
 ### Procedure for heat treatment
  1.	Select heat treatment from the list.
  2.	All the parts related to heat treatment are shown on the screen.
@@ -30,7 +26,6 @@
  5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ### OUTPUT :
-
 ![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/f67184a0-0e07-44bf-9e79-04d5661bdaee)
 ![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/814e1d8f-3565-424e-be16-0063213962ef)
 ![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/42d9c850-c975-4cd2-9c9f-dbba70809fe6)
