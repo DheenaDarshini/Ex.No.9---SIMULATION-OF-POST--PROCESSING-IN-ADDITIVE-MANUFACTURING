@@ -19,7 +19,7 @@
  4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
  5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 ### Procedure for heat treatment
- 1.	Select heat treatment from the list and All the parts related to heat treatment are shown on the screen.
+ 1.	Select heat treatment from the list .
  2.	Select the parts in sequence in which they are shown.
  3.	When the first part is selected then it will open in the blank space in the left side of the screen.
  4.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
