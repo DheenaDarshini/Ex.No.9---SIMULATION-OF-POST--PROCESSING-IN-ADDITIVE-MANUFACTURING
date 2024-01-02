@@ -34,8 +34,8 @@
 
 ![image](https://github.com/22002102/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119091638/435df277-1ca5-41a5-8f58-3289f80eec40)
 
-### Name: SANJAY S
-### Register Number: 212222230132
+### Name: Dheena Darshini Karthik Dheepan
+### Register Number: 212223240030
 
 ### Result: 
  Thus the simulation on the Postprocessing in additive manufacturing is completed.
